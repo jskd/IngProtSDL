@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE DictionaryObjects SYSTEM "rtdsDictionaryObjects.dtd">
+
+<DictionaryObjects version="2" language="none" diagramType="ifobs">
+<Item id="ITEM1" type="ifobs" name="ifobserver" scope="current" formalParameterOrder="-" isFormalParam="FALSE" isSyntype="FALSE">
+<UsingSymbols>
+<SymbolReference symbolId="SYMB1"/>
+</UsingSymbols>
+<Body>
+</Body>
+</Item>
+</DictionaryObjects>
